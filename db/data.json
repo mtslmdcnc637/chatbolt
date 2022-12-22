@@ -1,0 +1,12 @@
+[
+  { "message": "Olá!", "categoria": "SALUTATION" },
+  { "message": "Bom dia!", "categoria": "SALUTATION" },
+  { "message": "Como vai?", "categoria": "SALUTATION" },
+  { "message": "Tudo bem?", "categoria": "SALUTATION" },
+  { "message": "Oi!", "categoria": "SALUTATION" },
+  { "message": "Oi, tudo bem?", "categoria": "SALUTATION" },
+  { "message": "Bom dia, como vai?", "categoria": "SALUTATION" },
+  { "message": "Olá, tudo bem?", "categoria": "SALUTATION" },
+  { "message": "Oi, bom dia!", "categoria": "SALUTATION" },
+  { "message": "Olá, bom dia!", "categoria": "SALUTATION" }
+]
